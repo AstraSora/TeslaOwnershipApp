@@ -13,7 +13,7 @@ def calculate_annualized_maintenance(maintenance_items):
     return annualized_costs
 
 # Default values
-monthly_payment = 469  # Monthly car payment in USD
+monthly_payment = 533.80  # Monthly car payment in USD
 insurance_per_month = 323.56  # Monthly insurance cost in USD
 miles_per_year = 12500  # Annual mileage
 initial_value = 45000  # Initial purchase price of the car in USD
